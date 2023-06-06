@@ -93,6 +93,5 @@ By following this architectural flow, the project successfully leverages Azure M
 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
-
+https://youtu.be/evsm82xTsEs 
 

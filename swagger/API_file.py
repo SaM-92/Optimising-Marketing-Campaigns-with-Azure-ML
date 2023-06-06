@@ -38,10 +38,11 @@ SWAGGER_URL = "/swagger"
 from flask import send_from_directory
 
 
+# put the adr of your swagger.json 
 @app.route("/swagger.json")
 def send_swagger():
     return send_from_directory(
-        "C:\\Users\\saeed.misaghian\\Documents\\Training\\Udacity_ML_Engineering\\MLOps\\nd00333_AZMLND_C2\\starter_files\\swagger",
+        "PATH",
         "swagger.json",
     )
 
